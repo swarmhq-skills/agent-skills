@@ -1,6 +1,6 @@
 ---
 name: school-platform-connect
-description: "Connect an assistant to GrowApp, Moodle and WhatsApp invites, read only, for parents."
+description: "Connects your assistant to the school platforms a parent uses (GrowApp, Moodle) and to birthday invites forwarded on WhatsApp or iMessage. Reads notices, homework, tests, grades and deadlines, then turns them into one daily list and calendar suggestions. Use when the user wants help managing school tasks, results, birthdays or invites for their children."
 license: CC0-1.0
 compatibility: Works with any agent that can read the sources listed under Requirements. Written as plain instructions, no vendor lock-in.
 metadata:
@@ -11,7 +11,7 @@ metadata:
 
 # School platform connect
 
-Connects your assistant to the school platforms a parent uses (GrowApp, Moodle) and to birthday invites forwarded on WhatsApp or iMessage. Reads notices, homework, tests, grades and deadlines, then turns them into one daily list and calendar suggestions. Use when the user wants help managing school tasks, results, birthdays or invites for their children.
+Connect an assistant to GrowApp, Moodle and WhatsApp invites, read only, for parents.
 
 ## Requirements
 
