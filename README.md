@@ -4,7 +4,7 @@ Free, open skills in the [SKILL.md format](https://agentskills.io/specification)
 
 Each skill is one folder with a plain `SKILL.md`: what it does, when to use it, the steps, and written safety rules. Read-only by default, nothing sent or paid without your approval, no medical, financial or tax advice, facts only from real sources. No personal data, no vendor lock-in. Copy a folder into your agent's skills directory, or paste the text into any assistant.
 
-**42 skills.** Browse with illustrations and copy buttons: https://swarmhq.surge.sh/skills/
+**52 skills.** Browse with illustrations and copy buttons: https://swarmhq.surge.sh/skills/
 
 ## car
 
@@ -92,6 +92,16 @@ Each skill is one folder with a plain `SKILL.md`: what it does, when to use it, 
 | [weekly-status-update](skills/work/weekly-status-update/SKILL.md) | Builds a weekly status update from calendar, tasks and notes: done, in progress, blocked and next, ready for the user to edit. |
 | [focus-block-planner](skills/work/focus-block-planner/SKILL.md) | Finds free blocks in the calendar and proposes focus time for the most important tasks, then holds the blocks after approval. |
 | [follow-up-tracker](skills/work/follow-up-tracker/SKILL.md) | Finds promises and open questions in your sent email, tracks who owes what and drafts nudges after a set number of days. |
+| [moving-house-checklist](skills/home/moving-house-checklist/SKILL.md) | A dated checklist for the weeks before and after a move. |
+| [pet-care-schedule](skills/home/pet-care-schedule/SKILL.md) | Feeding, vet and treatment dates for your pet, in one place. |
+| [seasonal-declutter-plan](skills/home/seasonal-declutter-plan/SKILL.md) | One small area at a time, with a donate, sell or keep list. |
+| [document-expiry-tracker](skills/daily-ops/document-expiry-tracker/SKILL.md) | Know when passports, licences and cards expire, before it matters. |
+| [trip-day-plan](skills/daily-ops/trip-day-plan/SKILL.md) | One clear plan for a travel day, from leaving home to arriving. |
+| [price-drop-and-return-window-watch](skills/money/price-drop-and-return-window-watch/SKILL.md) | Do not miss a return deadline or a price adjustment. |
+| [shared-expense-splitter](skills/money/shared-expense-splitter/SKILL.md) | Who owes whom after a trip, a dinner or a shared home. |
+| [road-trip-prep](skills/car/road-trip-prep/SKILL.md) | A pre-trip check and packing list for a long drive. |
+| [email-reply-drafts](skills/work/email-reply-drafts/SKILL.md) | Short, clear reply drafts in your voice, for you to review. |
+| [errand-route-planner](skills/local-life/errand-route-planner/SKILL.md) | One efficient loop for the day's errands. |
 
 ## Request a skill
 
