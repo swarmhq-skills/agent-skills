@@ -4,7 +4,7 @@ Free, open skills in the [SKILL.md format](https://agentskills.io/specification)
 
 Each skill is one folder with a plain `SKILL.md`: what it does, when to use it, the steps, and written safety rules. Read-only by default, nothing sent or paid without your approval, no medical, financial or tax advice, facts only from real sources. No personal data, no vendor lock-in. Copy a folder into your agent's skills directory, or paste the text into any assistant.
 
-**40 skills.** Browse with illustrations and copy buttons: https://swarmhq.surge.sh/skills/
+**41 skills.** Browse with illustrations and copy buttons: https://swarmhq.surge.sh/skills/
 
 ## car
 
@@ -75,6 +75,7 @@ Each skill is one folder with a plain `SKILL.md`: what it does, when to use it, 
 | Skill | What it does |
 |---|---|
 | [school-app-watch](skills/parenting/school-app-watch/SKILL.md) | Checks the school or daycare app and emails for new posts, notices and schedule changes about your child and turns them into a short list of what you need to do or bring. |
+| [ai-house-rules-for-kids](skills/parenting/ai-house-rules-for-kids/SKILL.md) | Helps a parent write a one-page set of house rules for how children use AI chatbots and assistants, fitted to the child's age. |
 | [child-meal-log](skills/parenting/child-meal-log/SKILL.md) | Logs what your child ate at school, daycare and home from the menus and the notes you give it, and flags gaps against a simple balance check. |
 | [study-companion](skills/parenting/study-companion/SKILL.md) | Helps a child or teen study by quizzing them, explaining mistakes and tracking what to review, without doing the homework for them. |
 | [kids-activity-calendar](skills/parenting/kids-activity-calendar/SKILL.md) | Collects activities, school events and practice times for each child from messages and emails into one calendar and flags clashes and who drives. |
